@@ -1,0 +1,37 @@
+.etch {
+	height: 48em;
+	width: 48em;
+	border: solid 1px;
+}
+
+.unit {
+	background-color: black;
+	opacity: .10;
+	height: 3em;
+	width: 3em;
+	display: inline-block;
+	border: none;
+}
+
+p {
+	padding-top: 20px;
+	font-size: 50px;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+body {
+	background-color: #e4f4fa;
+}
+
+button {
+	margin-bottom: 50px;
+	font-size: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 3px;
+	background-color: #bae4f0;
+}
